@@ -1,0 +1,28 @@
+{
+  "name": "cgvgnq--run",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "react": "18.1.0",
+    "react-dom": "18.1.0",
+    "@syncfusion/ej2-base": "23.2.6",
+    "@syncfusion/ej2-heatmap": "23.2.4",
+    "@syncfusion/ej2-react-base": "23.2.5",
+    "@syncfusion/ej2-react-heatmap": "23.2.4",
+    "@syncfusion/ej2-icons": "23.2.4",
+    "@syncfusion/ej2-lists": "23.2.4",
+    "@syncfusion/ej2-documenteditor": "23.2.6",
+    "@syncfusion/ej2-buttons": "23.2.4",
+    "@syncfusion/ej2-splitbuttons": "23.2.4",
+    "@syncfusion/ej2-navigations": "23.2.5"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "react-scripts": "latest"
+  }
+}
